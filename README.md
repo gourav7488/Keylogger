@@ -52,3 +52,52 @@ pip install pynput
 ```bash
 python keylogger.py
 ```
+
+## ⚙️ Configuration
+
+You can customize the keylogger to fit your needs:
+
+- Log file output location
+- Enable email delivery (edit SMTP setting in script)
+- Add script to strtup (windows/Linux) for demo purpose
+- 
+---
+
+## 🔐 Ethical Use Cases
+
+This project can be used for:
+
+- 📚 **Educational Demonstration** – Learn how keyloggers work.
+- 🧠 **Malware Analysis Practice** – Understand how attackers use similar tools.
+- 🧪 **Testing Defensive Tools** – Analyze how antivirus, EDR, or firewalls detect and block keyloggers.
+- 🛡️ **Endpoint Protection Study** – Understand the role of monitoring and detection systems.
+
+---
+
+## 🎓 Learnings
+
+Through this mini project, I learned:
+
+- 🎹 How to capture keystrokes using `pynput` in Python
+- 🧵 How to run tasks in the background using threading
+- 🕵️‍♂️ How offensive tools behave, and how they can be used to train defensive techniques
+- 🔐 The importance of using such tools ethically and responsibly
+
+---
+
+## 👨‍💻 Author
+
+**Your Name**  
+BTech CSE | 6th Semester  
+Cybersecurity Enthusiast | Ethical Hacker | Bug Bounty Hunter
+
+### 🔗 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/gourav-kumar-438670291/)
+- [Medium](https://medium.com/@spidergk)
+- [YouTube - RootForce](https://www.youtube.com/@spidergk108)
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
