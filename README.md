@@ -40,4 +40,15 @@ A **Keylogger** is a surveillance tool that records every keystroke made on a ke
 ```bash
 git clone https://github.com/yourusername/keylogger-mini-project.git
 cd keylogger-mini-project
+```
 
+
+### Step 2: Install dependencies
+```bash
+pip install pynput
+```
+
+### Step 3: Run the Keylogger
+```bash
+python keylogger.py
+```
