@@ -87,14 +87,14 @@ Through this mini project, I learned:
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Gourav Kumar**  
 BTech CSE | 6th Semester  
 Cybersecurity Enthusiast | Ethical Hacker | Bug Bounty Hunter
 
 ### 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/gourav-kumar-438670291/)
 - [Medium](https://medium.com/@spidergk)
-- [YouTube - RootForce](https://www.youtube.com/@spidergk108)
+- [YouTube - Spider_gk](https://www.youtube.com/@spidergk108)
 
 ---
 
