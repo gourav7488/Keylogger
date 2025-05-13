@@ -26,11 +26,13 @@ A **Keylogger** is a surveillance tool that records every keystroke made on a ke
 ## 🧰 Tech Stack
 
 - **Language**: Python 3.x
+
 - **Libraries Used**:
-  - `pynput` – For listening to keyboard events
-  - `logging` – For structured log handling
-  - `smtplib` – For optional email delivery
-  - `os`, `threading`, `time` – Utility modules for operations
+  - [`pynput`](https://pypi.org/project/pynput/): For listening to keyboard events
+  - `logging`: For structured logging with timestamps
+  - `smtplib`: For sending logs via email (built-in Python library)
+  - `os`, `threading`, `time`: Standard libraries for process and file handling
+
 
 ---
 
