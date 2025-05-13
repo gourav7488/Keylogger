@@ -38,7 +38,7 @@ A **Keylogger** is a surveillance tool that records every keystroke made on a ke
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/yourusername/keylogger-mini-project.git
+git clone https://github.com/gourav7488/Keylogger.git
 cd keylogger-mini-project
 ```
 
