@@ -1,4 +1,4 @@
-# 🔐 Keylogger – Mini Project (6th Semester)
+# 🔐 Keylogger – Mini Project
 
 This repository contains a **Keylogger** developed as part of my mini project during the 6th semester of my BTech in Computer Science and Engineering. The project focuses on building a basic keystroke logging tool using Python to demonstrate how such tools operate and their implications in cybersecurity.
 
